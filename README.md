@@ -1,4 +1,4 @@
-
+<img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" />
 <h1 align="center">Hi 👋, I'm Rekha</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
